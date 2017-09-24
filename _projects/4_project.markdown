@@ -17,7 +17,7 @@ img: /assets/img/project_4_img_1.jpg
 * The major route of exposure is inhalation of DE. A male who exposure to 5 μg/m3 of elemental carbon for 45 years, beginning at age 20 and ending at age 65, would has a lifetime excess risk of lung cancer of 1.6%.
 * As diesel exhaust is “highly complex mixture”, scientist always use surrogate to measure the level of exposure. Carbon could be selected as an exposure surrogate, since more than 80% diesel particle matter are carbon. However, carbon in the organic fraction(OC)also exist in other source of pollution such as smoking. So OC is not an ideal selection for surrogate. In contrast, elemental carbon(EC), which refers to carbon in the soot particle core, exist little in cigarette and wood smokes. What’s more, gasoline emission contains far more less EC than diesel. 16 So elemental carbon is an ideal surrogate to measure particulate fraction in diesel exhaust.
 
-<img align = "middle" src="/assets/img/Project_4_img_2.png" width="700" >
+<img align = "middle" src="/assets/img/Project_4_img_2.jpg" width="700" >
 
 <p align="center"> This picture shows the Real-time Air Quality Index of Beijing-Tianjin-Hebei Region at 18:00 February 23rd 2017. (Source: http://aqicn.org/city/beijing/us-embassy/)</p>
 

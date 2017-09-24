@@ -19,11 +19,11 @@ img: /assets/img/project_3_img_1.jpg
 * 12 Month Timeframe* Incremental Rewards: Four 3-Month Payoff Cycles; Abstinence (3 months); Partial Abstinence (1.5 months); Any Drinking (0 months); Death (0 months)<h4><b>Results</b></h4>
 Topiramate is preferred arm with 7.62 months of abstinence:
 
-<img align = "middle" src="/assets/img/Project_3_img_2.jpg" width="700" >
+<img align = "middle" src="/assets/img/project_3_img_2.jpg" width="700" >
 
 **Sensitivity Analysis**
 
-<img align = "middle" src="/assets/img/Project_3_img_3.jpg" width="500" >
+<img align = "middle" src="/assets/img/project_3_img_3.jpg" width="500" >
 
 
 <h4><b>Discussion</b></h4>

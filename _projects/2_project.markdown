@@ -1,55 +1,26 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: Evaluation of the Use of Long Acting Opioids For Post-operative Pain Control in Orthopaedic Surgery
+description: 
+img: /assets/img/project_2_img_1.png
 ---
+<h4><b>Objective</b></h4>
+* Evaluate the use of long-acting opioids (LAOs) in the post-operative total joint arthroplasty population, with regard to effectiveness and risks. 
+* Provide recommendations regarding the use of long-acting opioids in this population.
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<h4><b>Methods</b></h4>
+* Medical literature contained within the Medline database was searched for original articles and reviews pertaining to long acting opioids. * Particular focus  was placed on their mechanism of action, side effect profiles, and distinguishing features between long and short acting formulations. 
+* Specific attention was paid to their use in total joint arthroplasty post-operative protocols * All identified articles relevant to this topic were reviewed.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<h4><b>Background</b></h4>
+* About 300,000 total hip arthroplasty (THA) and 700,000 total knee arthroplasty (TKA) operations are performed annually in the US, and this is expected to increase substantially over the coming decades. * Adequacy of pain management in this population affects recovery of functional mobility and patient satisfaction. 
+* Post-operative pain management protocols often involve narcotic analgesia. 
+* Controlled release, long-acting opioid formulations (LAOs) have the theoretical benefit of stable serum concentrations, however use of LAOs  may have distinct risks including abuse and diversion potential.  The risk is higher in patients who are using narcotics preoperatively, the number of whom are increasing.
+* It is important to evaluate this critical issue and provide recommendations regarding the use of LAOs in post-operative total joint arthroplasty patients.<img src="/assets/img/Project_2_img_2.png" width="700">
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-    <div class="img_row">
-      <img class="col two" src="/img/6.jpg"/>
-      <img class="col one" src="/img/11.jpg"/>
-    </div>
+<h4><b>Potential Actions</b></h4>
+* Continued utilization of LAOs in post-operative pain protocols, with close monitoring and enhanced patient education regarding the risks of these medications.
+* Elimination of LAOs from total joint arthroplasty post-operative analgesic protocols.
+<h4><b>Recommended Actions</b></h4>
+* Evidence does not support the routine use of LAOs in total joint arthroplasty patients for the management of acute post-surgical pain.  * LAOs should be used very selectively in post arthroplasty patients, and preferably avoided.  * We recommend pursuing multimodal pain management for arthroplasty patients, including a combination of some or all of the following strategies: (1) Patient education (2) Administration of pre-emptive analgesics (3) Epidural analgesia (4) Peripheral nerve blocks (5) Periarticular nerve blocks (6) Periarticular injections (7) Oral analgesics<h4><b>Evaluation Plan</b></h4>
+* Implementation of this recommendation could be evaluated through patient centered subjective pain metrics and objective clinical assessment (including measures of overall opioid consumption).   * On a community and population level its impact might be assessed through evaluation of addiction, illicit narcotic diversion, and accidental overdose.  For more details, please refer to [our poster](/assets/pdf/Poster_2.pdf)

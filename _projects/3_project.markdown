@@ -1,56 +1,47 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: Cost Effectiveness of Childhood Nutritional Interventions in Developing Countries
+description: A Systematic Review
+img: /assets/img/12.jpg
 ---
+<h4><b>Background</b></h4>
+* Nearly half of all deaths in children under five years old are attributed to malnutrition.
+* Nutritional deficiencies in children are costly for the economy of a country causing potential loss of income or impaired socioeconomic advancement.
+* A systematic review of studies evaluatingthe cost benefit of interventions to preventmalnutrition in developing countries may help to identify effective interventions and whether differences exist between countries.
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<h4><b>Objective</b></h4>
+Among children 0-5 years of age in underdeveloped and underprivileged countries, we want to know if nutritional interventions lead to improved measures of cost compared to usual care.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<h4><b>Methods</b></h4>
+**Study Eligibility:**
+Clinical trials, cohort, and cost-effective analysis study designs were included that compared placebo or usual care with intervention (education, dietary, community based, cash based transfers, and integrated health facility care).
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Search Methods:**
+We searched Medline, the Cochrane Library, Web of Science, Google scholar, EMBASE and clinical trial registries thru November 2016 using keywords and MeSH terms to generate the following themes of childhood nutrition, developing countries and cost.
 
+**Study identification and selection**
 
-<div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+<img align = "middle" src="/assets/img/Project_1_img_1.png" width="400" >
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<h4><b>Results</b></h4>
+<img src="/assets/img/Project_1_img_2.png" width="700">
+<p align="center"> Table 1. Characteristics of studies comparing effects childhood nutritional interventions effect on cost in underdeveloped countries.</p>
 
 
-<div class="img_row">
-    <img class="col two" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<img src="/assets/img/Project_1_img_3.png" width="700">
+
+<p align="center"> Table 2. Cost effectiveness ratios</p>
 
 
-<br/><br/><br/>
+<img src="/assets/img/Project_1_img_4.png" width="700">
+<p align="center"> Table 3. Costs of the intervention</p>
 
+<img src="/assets/img/Project_1_img_5.png" width="700">
+<p align="center"> Table 4. Secondary Outcomes
+</p>
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
+<h4><b>Conclusion</b></h4>
+* Many studies suggest nutritional interventions are cost effective.
+* Further research using standardized outcome measures is needed to determine cost effectiveness of different nutritional interventions based on country.
 
-    <div class="img_row">
-      <img class="col two" src="/img/6.jpg"/>
-      <img class="col one" src="/img/11.jpg"/>
-    </div>
+For more details, please refer to [our poster](/assets/pdf/Poster.pdf)

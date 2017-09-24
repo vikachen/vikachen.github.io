@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cost Effectiveness of Childhood Nutritional Interventions in Developing Countries
-description: A Systematic Review
-img: /assets/img/12.jpg
+title: Cost Effectiveness of Childhood Nutritional Interventions in Developing Countries - A Systematic Review
+description: 
+img: /assets/img/12.png
 ---
 <h4><b>Background</b></h4>
 * Nearly half of all deaths in children under five years old are attributed to malnutrition.

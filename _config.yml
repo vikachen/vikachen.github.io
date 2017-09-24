@@ -2,51 +2,50 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Shuang Chen
-email: vikachen1993@gmail.com
+email: shuangchen1993@gmail.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  vikachen.github.io # the base hostname & protocol for your site
-baseurl:  # should be empty
+url:   vikachen.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # put your github username
-twitter_username: # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
+#github_username: # put your github username
+#twitter_username: # put your twitter username
+linkedin_username: shuang-chen-81ab6493 # put your linkedin username
+#scholar_authorid: # put your google scholar author id
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+The best way to reach me: Drop me an email.
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+# blog_name: al-folio
+# blog_description: a simple whitespace theme for academics
 
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# # Pagination
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
+# text:
+#   pagination:
+#     newer: 'Newer'
+#     older: 'Older'
 
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
+# # Comments
+# disqus_shortname: al-folio # put your disqus shortname
 
-# Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
+# # Optional features
+# show_social_icons:  false
+# enable_anchorjs:    false
+# enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections

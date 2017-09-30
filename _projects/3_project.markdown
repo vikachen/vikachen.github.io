@@ -4,6 +4,14 @@ title: Pharmacological Interventions for Alcohol Abuse
 description: 
 img: /assets/img/project_3_img_1.jpg
 ---
+
+<h4><b>Team Member</b></h4>
+**_Shuang Chen_**, Sonia Gill, Rebecca Nourse, Anne Paumgarten
+
+<h4><b>Project Summary</b></h4>
+Alcohol use disorders affect over 17 million adults in the United States as of 2012. Only a third of the population seeks treatment and less than ten percent receives medication for alcohol abuse. The purpose of this project is to determine which pharmacological intervention for alcohol abuse is most effective at increasing the number of non-drinking days among alcohol abuse population. Meta analyses and randomized controlled trials were used to obtain data on the probability of discontinuing the drug due to adverse effects and the probability of abstaining from alcohol vs. continued drinking. Mortality rates due to alcohol-related causes were obtained from a CDC lifetable database.  We use TreeAge software to create a Markov model that included five decision tree arms – Topiramate, Acamprosate, Disulfram, Naltrexone and a no treatment arm. Probabilities were converted to a three-month timeframe. Incremental payoffs were assigned to each Markov cycle of 3 months of sobriety.Topiramate is most effective by increasing 7.62 months of non-drinking days. (Acamprosate: 7.17 months; Disulfram:5.65 months, Naltrexone: 4.63 months, No-treatment: 3.97 months) The result of 1-way sensitive analysis shows that when the probability of discontinuation of Topiramate is lower than 0.30, Topiramate is better option. When the probability of discontinuation of Topiramate is larger than 0.30, Acamprosate is preferred. We recommend Topiramate could be considered for FDA approval to treat alcohol abuse based on our study. 
+
+
 <h4><b>Background</b></h4>
 * Alcohol use disorders affect over 17 million adults in the United States as of 2012.
 * Only a third of the population seeks treatment and less than ten percent receives medication for alcohol abuse.
@@ -23,7 +31,7 @@ Topiramate is preferred arm with 7.62 months of abstinence:
 
 **Sensitivity Analysis**
 
-<img align = "middle" src="/assets/img/project_3_img_3.jpg" width="500" >
+<img align = "middle" src="/assets/img/project_3_img_3.jpg" width="600" height = "480" >
 
 
 <h4><b>Discussion</b></h4>

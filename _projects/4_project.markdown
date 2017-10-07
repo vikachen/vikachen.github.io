@@ -1,37 +1,47 @@
 ---
 layout: page
-title:  Risk characterization and Policy Recommendations Regarding the Diesel Exhaust and PM2.5 in Beijing-Tianjin-Hebei Area
+title:  Capstone &#58; The Need for Expedited Approval -- Policy Recommendation for Oncology and Orphan Drugs in China
 description: 
 img: /assets/img/project_4_img_1.jpg
 ---
-<h4><b>Background</b></h4>
-* Vehicle emissions are the greatest source of Beijing's air pollution. According to Chai, an officer of Chinese Research Academy of Environmental Sciences, more than 5 million vehicles are registered in Beijing, and the number keeps increasing.* Diesel fumes, commonly known as diesel engine exhaust emissions, are a complex mixture of hundreds of constituents in forms of gas, vapor and fine particular matter. The health effects could be acute and long-term. An acute exposure could lead to irritation of eyes, nose and lung. Many health effects have association with diesel exhaust exposure, containing immunologic, respiratory, and cardiovascular effects. Some studies show the correlation between inhalation of diesel fumes and lung cancer in long term. Diesel play an important role in modern society and economy development. In transportation, trucks and lorries utilize diesel and majority of the rivers barges, freight trains and ocean-going ships are also powered by diesel. Diesel-power machine is widely used in mining, farming and electronic industry.
+<h4><b>Project Summary</b></h4>
 
-<h4><b>Characterization of the Risk</b></h4>
-**Hazard identification**
+Patients with cancer or rare diseases in China struggle with no effective drug therapy. Even though some oncology or orphan drugs are in the market for several years in the US, Chinese patients have no access to them due to the delays involved in having new drugs approved for use in the US, but not approved for use in China. The FDA in the United States has experience in dealing with this challenge - how to balance the safety and efficacy in the approval process especially for patients with serious and life-threatening diseases. Should CFDA using FDA expedited programs as a model to solve the problem of delay in drug approval? To answer this question, I conduct a policy systematic review to analyze how expedited approvals apply on oncology and orphan drugs in the US. In accordance with China’s pharmaceutical market environment, I proposed recommendations that include developing a dialogue mechanism between sponsors and CFDA. Further study is needed to focus on reimbursement of oncology drugs and orphan drugs to realize its affordability to patients. <h4><b>Background</b></h4>
+* China had 4.3 million new cancer cases in 2015. Cancer is a leading cause of death, it isresponsible for 28% of deaths in China.
+* There are more than 10 million patients with rare diseases in China (underestimation).
+* Of the 291 drugs approved in the United States, 27% were approved in China. Even though some drugs have been in the market for several years in the US, Europe and other developing countries, Chinese patients have no access to it due to the “drug backlog”. Some patients have no choice and turn to unofficial channels and purchase drugs in the gray market.
 
-* Diesel exhaust is the major resource of particulate matter. Particulate matter (PM) air pollution contributes to cardiovascular morbidity and mortality. Many studies have found that exposure to PM increase premature death from lung disease. PM2.5 is also known to trigger or worsen chronic disease such as asthma, heart attack, bronchitis and other respiratory problems. Jiřík et al found the incidence of pulmonary disease and bronchial asthma in PM2.5 highly-density area is higher than general population. Cox et al confirmed the positive association between stroke and heart attack risk with PM2.5 by investigating self-reported risk in a large data set.
+<h4><b>Policy Question</b></h4>
+* How to respond to the urgent demand of patients with a life-threatening disease?
+* How to solve the problem of “drug backlog”?
+* Should CFDA introduce regulations to speed up the approval of oncology and orphan drugs?
 
-**Exposure assessment**
+<h4><b>Conceptual Model</b></h4>
+<img align = "middle" src="/assets/img/project_4_img_2.png" width="700" heigth="600" >
 
-* The major route of exposure is inhalation of DE. A male who exposure to 5 μg/m3 of elemental carbon for 45 years, beginning at age 20 and ending at age 65, would has a lifetime excess risk of lung cancer of 1.6%.
-* As diesel exhaust is “highly complex mixture”, scientist always use surrogate to measure the level of exposure. Carbon could be selected as an exposure surrogate, since more than 80% diesel particle matter are carbon. However, carbon in the organic fraction(OC)also exist in other source of pollution such as smoking. So OC is not an ideal selection for surrogate. In contrast, elemental carbon(EC), which refers to carbon in the soot particle core, exist little in cigarette and wood smokes. What’s more, gasoline emission contains far more less EC than diesel. 16 So elemental carbon is an ideal surrogate to measure particulate fraction in diesel exhaust.
+<h4><b>Criteria</b></h4>
+<b>Inclusion Criteria</b>
 
-<img align = "middle" src="/assets/img/project_4_img_2.jpg" width="700" >
+* Mainly discussed about mechanism or characteristics of expedited approval programs (including Fast Track, Accelerated Approval, Priority Review, Breakthrough Therapy).
+* The type of article could be primary studies, opinion, commentary, review, report or official documents, etc.
+* The approved drug discussed in articles should be oncology drugs or orphan drugs, or drugs treating rare disease.
+* The approval process should be in Food and Drug Agency in United State.
 
-<p align="center"> This picture shows the Real-time Air Quality Index of Beijing-Tianjin-Hebei Region at 18:00 February 23rd 2017. (Source: http://aqicn.org/city/beijing/us-embassy/)</p>
+<b>Exclusion Criteria</b>
 
-**Dose response**
+* Studies mainly talked about approval process in EU, Japan, or any other countries.
+* The approved drug is treating HIV or other diseases even they are under the expedited approval programs.
+* It is an official FDA drug approval summary for one specific drug. (Even it contains original and reliable data for the drug, which might be utilized in the future).
+* It is a short announcement to announce one specific drug gain approval or enter the market.
 
-* A plethora of studies suggest the dose relationship between DE exposure and lung diseases. Ishihara et al suggest a dose response relationship in regard to duration and concentration of exposure. Larcombe et al argue that the route of exposure affects the dose-relationship, inhalation generally displaying more realistic dose-response relationships than intranasal instillation, which shows little influence of dose. However these are animal experimental studies. The quantitative dose-response estimates could not be developed due to lack to information.
+<h4><b>Parallel Searching</b></h4>
+<img align = "middle" src="/assets/img/project_4_img_3.png" width="700" heigth="600" >
 
-<h4><b>Applicable regulatory agencies and environmental acts</b></h4>
-* The International Council on Clean Transportation
-* Low Emission Zone(LEZ) in Germany : A low emission zone is defined area where only allowed vehicle meet low- emission standard to access. Vehicles receive a colorful sticker to show whether they are low-emission. The introduction of low emission zone is effectively speed up the replacement of old high-pollution vehicles. This process of replacement is from 2008 and divided into two phase, so residents could have enough time to retrofit their vehicles or purchase new ones. Qadir et al found the average concentration of EC from traffic factor decreased from 1.1 to 0.5 mg/m3 after the implementation of the LEZ.
-* Unite States EPA New England control diesel exhaust : EPA in Unite States set up stringent emission standards for new diesel engines and fuel. EPA also encourages schools, communities to develop anti-idling policy. EPA start a collaboration with the freight industry to reduce emissions, called SmartWay Transport Partnership. 
-* Unite State EPA collaborates with China: EPA has collaborated with China's Ministry of Environmental Protection, city-level Environmental Protection Bureau to share experience and strategy in reduction air pollutants. For example, EPA collaborate with Shanghai Environmental Monitoring Center to establish the AirNOW international monitoring system, which is also applicable to Beijing.
+<h4><b>Recommendation</b></h4>
+* CFDA should introduce regulations to expedite access of oncology and orphan drugs immediately.
+* CFDA should build a rationale to give guidance for drug sponsors.
+* Develop a dialogue mechanism between sponsors and agency.
+* Post-approval confirmatory studies need to be conducted carefully.
 
-<h4><b>Economics Consideration</b></h4>
-* The benefit of reducing diesel emission is mainly health benefits. Less particular matter pollution may reduce hospital visiting. This benefit can be measure by monetary value of lessening the health burdens created. For example, cost of illness(COI) could be used to estimate total costs incur due to a disease, including the total cost of medical treatment and loss in productivity. 
+For more details, please refer to [my keynote](/assets/pdf/keynote_2.pdf) and [my thesis](/assets/pdf/paper_2.pdf).
 
-For more details, please refer to [my paper](/assets/pdf/paper_1.pdf)

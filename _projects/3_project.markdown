@@ -27,11 +27,11 @@ Alcohol use disorders affect over 17 million adults in the United States as of 2
 * 12 Month Timeframe* Incremental Rewards: Four 3-Month Payoff Cycles; Abstinence (3 months); Partial Abstinence (1.5 months); Any Drinking (0 months); Death (0 months)<h4><b>Results</b></h4>
 Topiramate is preferred arm with 7.62 months of abstinence:
 
-<img align = "middle" src="/assets/img/project_3_img_2.jpg" width="700" >
+<img align = "middle" src="/assets/img/project_3_img_2.png" width="700" >
 
 **Sensitivity Analysis**
 
-<img align = "middle" src="/assets/img/project_3_img_3.jpg" width="600" height = "480" >
+<img align = "middle" src="/assets/img/project_3_img_3.jpg" width="600" height = "440" >
 
 
 <h4><b>Discussion</b></h4>
